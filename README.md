@@ -1,3 +1,3 @@
-# towards_censorship_proof_auctions_simulation
+# Simulation for Towards Censorship Proof Auctions
 
 Simulations for a paper on on-chain auctions
